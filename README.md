@@ -2,7 +2,7 @@
 
 # Description 
 
-Devellopement d'un web site qui simule la vente de tea 
+Devellopement d'un web site qui simule la vente de thé 
 
 # langage Informatique 
 - HTML
