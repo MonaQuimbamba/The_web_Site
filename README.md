@@ -1,5 +1,5 @@
 # Web Site
-
+![Contribution guidelines for this project](img/wholePage.png)
 # Description 
 
 Devellopement d'un web site qui simule la vente de thé 
